@@ -5,12 +5,16 @@
 # print(price, rating, name, is_human)
 # print(price)
 
-name = 'john smith'
-age = 20
-is_new= True
+# name = 'john smith'
+# age = 20
+# is_new= True
 
-print('we check in a patient named '+ name +'. He is '+ str(age)+' year old and is new patient.')
+# print('we check in a patient named '+ name +'. He is '+ str(age)+' year old and is new patient.')
 
 
 
+# fruits = ['apple', 'banana', 'orange', 'mango']
+
+# for i in fruits:
+#     print(i)
 
