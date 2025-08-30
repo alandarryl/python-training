@@ -1,4 +1,20 @@
-print("hello, world")
-print('0----0')
-print(' ////')
-print('*'*10) 
+# print("Jonathan Okana")
+
+# print('o----')
+# print(' IIII')
+
+# print('*' * 10)
+
+# print('*   *')
+# print('**  **')
+# print('******')
+# print('******')
+# print(' ****')
+# print('  **')
+# print('   *')
+
+
+
+
+
+
