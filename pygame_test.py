@@ -13,7 +13,7 @@ text_rect = text.get_rect(center=(200, 150))
 # Bloc (rectangle) paramètres
 block_x = 180
 block_y = 250
-block_width = 40
+block_width = 70
 block_height = 40
 jumping = False
 velocity = 0

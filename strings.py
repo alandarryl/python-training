@@ -9,5 +9,24 @@
 
 # print(course[:])
 
-name = 'Jennifer'
-print(name[1:-1])
+# name = 'Jennifer'
+# print(name[1:-1])
+
+
+course = 'Python for Beginners'
+
+# length = len(course)
+
+# print(length)
+
+# course = course.upper()
+# print(course)
+
+# course = course.replace('Beginners', 'Absolute Beginners')
+
+# print(course.find('for'))
+
+# print('Python' in course)
+
+
+
