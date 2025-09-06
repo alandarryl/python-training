@@ -63,3 +63,24 @@
 
 
 
+# numbers  = (1, 2, 3)
+# # numbers[0] = 1
+# numbers.count(1)
+
+# coordinates = (1, 2, 3)
+
+# x = coordinates[0]
+# y = coordinates[1]
+# z = coordinates[2]
+
+# greeting = 'Hell'
+
+
+# x, y, z, t= greeting
+
+# print(x)
+
+
+
+
+
